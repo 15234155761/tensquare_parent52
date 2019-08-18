@@ -1,7 +1,7 @@
 package com.tensquare.base.pojo;
 
 /**
- * 天气的ben
+ * 天气的ben ,m n n jm
  */
 public class Entity {
 
@@ -20,6 +20,10 @@ public class Entity {
     public void setWeatherinfo(WeatherinfoBean weatherinfo) {
         this.weatherinfo = weatherinfo;
     }
+
+    /*
+     *,.
+     */
 
     public static class WeatherinfoBean {
         /**
