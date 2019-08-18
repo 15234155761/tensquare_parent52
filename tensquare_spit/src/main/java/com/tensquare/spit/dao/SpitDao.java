@@ -11,6 +11,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
  */
 public interface SpitDao extends MongoRepository<Spit, String> {
 
+
+
     /**
      *根据上级ID查询吐槽列表（分页）
      *@param parentid
