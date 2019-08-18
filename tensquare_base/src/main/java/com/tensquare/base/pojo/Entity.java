@@ -11,6 +11,7 @@ public class Entity {
      */
 
     private WeatherinfoBean weatherinfo;
+    private WeatherinfoBean ccc;
 
     public WeatherinfoBean getWeatherinfo() {
         return weatherinfo;
