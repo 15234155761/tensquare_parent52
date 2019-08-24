@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37007bb6-5252-483e-b036-8477e49a5a52" name="Default" comment="22">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tensquare_article/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tensquare_article/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="37007bb6-5252-483e-b036-8477e49a5a52" name="Default" comment="222" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/tensquare_common/target/" />
@@ -67,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/dao/ArticleDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+            <state relative-caret-position="182">
+              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -210,9 +205,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="155" />
-    <option name="y" value="47" />
-    <option name="width" value="1607" />
+    <option name="x" value="508" />
+    <option name="y" value="35" />
+    <option name="width" value="1347" />
     <option name="height" value="957" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -244,51 +239,6 @@
             <path>
               <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensquare_parent52" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensquare_parent52" type="462c0819:PsiDirectoryNode" />
-              <item name="tensquare_article" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="article" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,7 +349,7 @@
       <option name="presentableId" value="Default" />
       <updated>1539052232084</updated>
       <workItem from="1539052249300" duration="7381000" />
-      <workItem from="1566116366996" duration="12403000" />
+      <workItem from="1566116366996" duration="14095000" />
     </task>
     <task id="LOCAL-00001" summary="22">
       <created>1566183328429</created>
@@ -422,11 +372,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566185428951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="222">
+      <created>1566652216528</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566652216528</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19784000" />
+    <option name="totallyTimeSpent" value="21476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -477,7 +434,8 @@
     <MESSAGE value="5" />
     <MESSAGE value="11" />
     <MESSAGE value="22" />
-    <option name="LAST_COMMIT_MESSAGE" value="22" />
+    <MESSAGE value="222" />
+    <option name="LAST_COMMIT_MESSAGE" value="222" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tensquare_common/pom.xml">
@@ -780,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tensquare_article/src/main/java/com/tensquare/article/dao/ArticleDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        <state relative-caret-position="182">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
     </entry>
