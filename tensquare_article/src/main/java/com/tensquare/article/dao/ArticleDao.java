@@ -30,4 +30,5 @@ public interface ArticleDao extends JpaRepository<Article,String>,JpaSpecificati
     @Query(value = "UPDATE  tb_article SET thumbup=thumbup+1 where id=?",nativeQuery = true)
     public int updateThumbup(String id);
 
+
 }
